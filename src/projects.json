@@ -1,0 +1,26 @@
+[
+   {
+     "category": "Clean Energy",
+     "name": "PVWatts Clone",
+     "img": "PVWatts-clone.png",
+     "description": "Can Solar Power Work for You?",
+     "github": "https://github.com/caseymccullough/electric-enlightenment",
+     "deployed": "https://caseymccullough.github.io/Solar-Energy-Calculator/"
+   },
+   {
+      "category": "Clean Energy",
+      "name": "Electric Enlightenment",
+      "img": "electric-enlightenment.png",
+      "description": "A simulated IoT analysis of home energy use",
+      "github": "https://github.com/caseymccullough/electric-enlightenment",
+      "deployed": "https://electric-sage.herokuapp.com/"
+   },
+   {
+      "category": "Games",
+      "name": "Othello",
+     "img": "Othello-image.png",
+     "description": "A two-player version of the classic board game",
+     "github": "https://github.com/caseymccullough/electric-enlightenment",
+     "deployed": "https://caseymccullough.github.io/Othello/"
+   }
+]
