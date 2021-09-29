@@ -20,11 +20,15 @@ export default function NavBar() {
 
 					<div className="left-side-links">
 						<Link to="/">
-							<p className="link">My Work</p>
+							<p className="link">My Projects</p>
 						</Link>
-						<Link to="/skills">
-							<p className="link">My Skills</p>
-						</Link>
+						<a href="https://docs.google.com/document/d/11neZJFb0wZbVqJGBgODpkGH_gMHImGnr/edit?usp=sharing&ouid=114473479347905468513&rtpof=true&sd=true" 
+							target="_blank" 
+							rel="noopener noreferrer"
+						>
+							<p className="link">My Resume</p>
+						</a>
+
 						<Link to="/info">
 							<p className="link">My Info</p>
 						</Link>

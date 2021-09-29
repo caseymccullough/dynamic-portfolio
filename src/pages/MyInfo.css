@@ -1,0 +1,21 @@
+.image-plus-caption {
+   display: flex;
+   flex-direction: row; 
+   margin: 30px;
+   
+}
+
+.about-me-img{
+   border-radius: 15px;
+   margin: 15px; 
+}
+
+#personal-description-container{
+   font-size: 1.3em;
+   padding: 0 30px; 
+   text-align: left;    
+}
+
+.personal-description{
+   justify-content: left;
+}
